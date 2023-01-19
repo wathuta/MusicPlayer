@@ -1,4 +1,4 @@
-const SongCard = () => (
+const SongCard = (prop) => (
   <div>SongCard</div>
 );
 
